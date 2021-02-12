@@ -1,0 +1,6 @@
+name: MoonLobby
+main: fr.heavenmoon.lobby.MoonLobby
+author: [Dayela, Hakka]
+version: 1.0
+depend:
+  - MoonCore
